@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "TestStream",
+      "description": "Show Live Screen",
+      "userId": "102528245310482286944",
+      "id": 8
+    },
+    {
+      "title": "Hello",
+      "description": "Hello from the other side",
+      "userId": "102528245310482286944",
+      "id": 9
+    },
+    {
+      "title": "Another Live Stream",
+      "description": "This is another lig",
+      "userId": "102528245310482286944",
+      "id": 10
+    }
+  ]
+}
